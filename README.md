@@ -4,7 +4,7 @@ with Firebase Database
 
 <img src="https://github.com/deepakranga1801/property-landing/blob/0d37f5e49123e530737e89bac8aafd3901eda5f1/screenshot.png" >
 
-<br/<br/>
+<br/><br/>
 
 # Getting Started with Create React App
 
