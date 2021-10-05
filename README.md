@@ -1,4 +1,4 @@
-Live URL: https://analah21.com/weekend-home/
+Live URL: https://analah21.com/public/weekend-homes-and-plots/
 
 with Firebase Database
 
